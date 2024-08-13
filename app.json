@@ -1,5 +1,5 @@
 {
-  "name":"TKM-bot",
+  "name":"babyfx",
   "description":"Deploy your TKM bot now.Brought to you by the Cod3Uchiha.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TKM bot",
+      "value":"favor",
       "required":false
 
     } ,
@@ -67,7 +67,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicU8zMHQ4a0FZWkdpLzZxdFR2bVZlS1VwdXN2MzVHbHpqYS9qd2FLOFJWdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSmRDL1pqZnpNUjN4akgwZ3hLWUVoTENmN0VqcUVzY1N6eEo0eStJd1pqND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJZQU5ucXBuVDU0MDdIODlMTWFibkRxZjI1UEhpanU4MGRwTm80Nkg5NEVRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJLazh4Tkl1cmt0QWVGTElCeWwrREpKbzBRMEd2S2laaXVaRGFoQ2dVendrPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjhQOVhMN3gyRVZSWmUrcW0yQjBjbjZQeFNFeVZQTGFDbVk0WmdXYjcwV289In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVsaUd3N0tiL25KK2JwSGpEVDhuTjBLQ1NibzlqYnQ1YXZ1aVZPdmx6d0E9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMkRzTktmNC9HN3oyOWpMQ2JnSDlZdUdVTFRTMEZkYmhrV1VYNzY1WTNsST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZW9TZGZRZWlVYXltY2dkMFpHelorT1hBVE1GNklIUmh2eHBDaHRPOG9qMD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im1aQWp4WE44WUtuaE1ZMVcxbmV1ZGNxMnZTNnNpNUhmaWt2aXBWd2JsVzZQSnlJY2ptc2xkeWtsRHpORDZIOVZXT3l3WEVrTGNON2tmTER1MXVHR2d3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTM2LCJhZHZTZWNyZXRLZXkiOiJEb1EvR2FVZG9FY1J5MmlmKzdmUlc1NURnbmJOaytFYWhrdlVVWmtDVHgwPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiI1YkxBS012WVRhdWhlVlRZUF9Rakx3IiwicGhvbmVJZCI6ImQ3NTNmNzM5LWY2NTctNDJiOS04MDEzLTY5NGY3NmJlODA2MiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI1UVVNcDY2Sm42c2dMd0p0dDJzRjJ0d2Fsa3M9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaEozTE9LUVo4ZVI2eFExRVhvbnRXV05YMERFPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkRFOFkyOERIIiwibWUiOnsiaWQiOiIyNTY3NjEzOTYzMDk6MzVAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiQsyIIMOEIELMiCDFuCBGzIgg4bqMIOG1kOG1kuKBv+G1icq4In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNOcTd0eVVRaHNidHRRWVlBU0FBS0FBPSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJaUVN4V2d3MVIwSU5ONDRRQXczTXBEQjZvcE5EdzFDRS9QcFlrdkxGN0VjPSIsImFjY291bnRTaWduYXR1cmUiOiJVdCtINGNVYWFDcXl0RCtwaUdJQnQ4MFlWMjR1NDZFSlFEcGVyMGpUT2xTM3lnTWFVcXBzSTRsNHJSZkhRbHVCam9TL1JUeitydWwwWjdUZ0ZUWVJDUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoieDNWVFVya1VFT0xHdlYva2VyNkdsb3B2MVkxQ20vL1dZcFd5b3NYN091dU0rdEI3TUlNWktxTE4yMWF1d29Vbm8vL1krS2FvQXdXMGQ5dUVnL3lZalE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNTY3NjEzOTYzMDk6MzVAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCV1VFc1ZvTU5VZENEVGVPRUFNTnpLUXdlcUtUUThOUWhQejZXSkx5eGV4SCJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMzU1NjYyOSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFIZVoifQ==",
       "required":true
       
     },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Cod3Uchiha"
+    "value": "babyfx"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "263775571820,263785028126"
+    "value": "256761396309,256702956900"
   },
     "WARN_COUNT":
   {
